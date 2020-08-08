@@ -12,7 +12,7 @@
 ![Landing](https://media.discordapp.net/attachments/724515526851952731/741511786402021486/Screenshot_2020-08-08-01-22-57-558_host.exp.exponent.jpg?width=204&height=443)
 ![Teacher List](https://media.discordapp.net/attachments/724515526851952731/741511698170642472/Screenshot_2020-08-08-01-22-19-071_host.exp.exponent.jpg?width=204&height=443)
 ## :question: Sobre:
-  _Este foi criado pensando nos profissionais de educação, a intenção é ajudar eles a conseguirem trabalhar como freelancer, e assim proporcionando uma educação de mais qualidade para os alunos._
+  _Este projeto foi criado pensando nos profissionais de educação, a intenção é ajudar eles a conseguirem trabalhar como freelancer, e assim proporcionando uma educação de mais qualidade para os alunos._
 
 
 ## :pushpin: Tecnologias Usadas:
