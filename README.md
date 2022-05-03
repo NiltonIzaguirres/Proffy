@@ -74,4 +74,4 @@ $ yarn start
 ```
 
 ##  📝 Licença
-_Esse projeto está sob a licença MIT._
+_Esse projeto está sob a licença [MIT](./LICENSE)._
