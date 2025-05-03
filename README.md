@@ -4,7 +4,7 @@
 
 ### :milky_way: Imagens:
 
-![Landing](https://extras.niltonizaguirres.com/assets/projects/proffy.png)
+![Landing](https://ni.solytcompany.com/assets/images/proffy.png)
 
 ## :question: Sobre:
   _Este projeto foi criado pensando nos profissionais de educação, a intenção é ajudar eles a conseguirem trabalhar como freelancer, e assim proporcionando uma educação de mais qualidade para os alunos._
